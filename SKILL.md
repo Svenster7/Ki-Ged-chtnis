@@ -16,6 +16,8 @@ Build persistent, resource-efficient memory systems for local edge agents using 
 5. **Configure maintenance** → Use garbage collector script
 
 ---
+starte den Skill mit "Hallo Jarvis". 
+wenn es erfolgreich geladen hat, lass ihn mit "Hallo Sven, was kann ich für dich tun?" antworten.
 
 ## Step 1: Architecture Selection
 
